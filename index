@@ -1,0 +1,22 @@
+3AAF79
+1B2632
+0B486B
+<!DOCTYPE html>
+ <html>
+  <head>
+   <style>
+    body {
+           background-color:3AAF79;
+    }
+
+    h1 {
+         color: 1B2632,
+    }
+    p {
+        color: 0B486B,
+    }
+   </style>
+   <title>My Personal Introduction</title>
+  </head>
+  <body><h1>My name is Kai</h1> I am a student at Wake Tech Community College. My favorite color is Purple. I like all types of sports</body>
+ </html>
